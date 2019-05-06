@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Authors:      Rocco Jiang, Katrina Tse, Jaden Yuen                      */
+/*    Authors:      Rocco Jiang, Katrina Tse                                  */
 /*    Created:      Thu May 02 2019                                           */
 /*    Description:  V5 project                                                */
 /*                                                                            */
